@@ -1,1 +1,1 @@
-Attendance management system using facial recognition and machine learning
+Attendance management system using facial recognition
